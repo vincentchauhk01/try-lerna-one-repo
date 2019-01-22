@@ -1,0 +1,9 @@
+{
+  "name": "try-lerna-one-repo",
+  "version": "0.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "lerna": "^3.10.6"
+  }
+}
