@@ -1,5 +1,5 @@
 {
-  "name": "try-lerna-one-repo",
+  "name": "@vincentchauhk01/try-lerna-one-repo",
   "version": "0.2.0",
   "main": "index.js",
   "license": "MIT",
