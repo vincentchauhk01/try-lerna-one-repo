@@ -5,5 +5,8 @@
   "license": "MIT",
   "devDependencies": {
     "lerna": "^3.10.6"
+  },
+  "scripts": {
+    "lerna:version": "lerna version --conventional-commits --force-publish"
   }
 }
